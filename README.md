@@ -12,12 +12,13 @@ Tick a box (`[x]`) and commit to log progress.
 
 ## Week 1: Foundations (Essential AI Knowledge, 38%)
 
-- [ ] Review the official NVIDIA exam blueprint
-- [ ] Complete NVIDIA's official learning path (~7 hours)
-- [ ] AI vs. machine learning vs. deep learning
-- [ ] Training vs. inference
-- [ ] Accelerated computing use cases
-- [ ] NVIDIA software stack: CUDA
+- [x] Review the official NVIDIA exam blueprint
+- [x] AI vs. machine learning vs. deep learning
+- [x] Training vs. inference
+- [x] Accelerated computing use cases
+- [x] NVIDIA RTX
+- [x] LoveLace Architecture and Capabilities
+- [x] NVIDIA software stack: CUDA
 - [ ] NVIDIA software stack: NGC
 - [ ] NVIDIA software stack: TensorRT
 - [ ] NVIDIA software stack: Triton Inference Server
