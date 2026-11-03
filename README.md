@@ -10,7 +10,7 @@ Tick a box (`[x]`) and commit to log progress.
 
 ---
 
-## Week 1: Foundations (Essential AI Knowledge, 38%)
+## Foundations (Essential AI Knowledge, 38%)
 
 - [x] Review the official NVIDIA exam blueprint
 - [x] AI vs. machine learning vs. deep learning
@@ -25,7 +25,7 @@ Tick a box (`[x]`) and commit to log progress.
 - [ ] NVIDIA software stack: NVIDIA AI Enterprise
 - [ ] Make flashcards: one line per NVIDIA product on what it's for
 
-## Week 2: AI Infrastructure (40%)
+## AI Infrastructure (40%)
 
 - [ ] GPU architecture (SMs, Tensor Cores, memory)
 - [ ] GPU generations and how they differ
@@ -38,7 +38,7 @@ Tick a box (`[x]`) and commit to log progress.
 - [ ] Cooling and power basics
 - [ ] Write a one-page comparison sheet (NVLink vs. InfiniBand vs. Ethernet, DGX vs. HGX)
 
-## Week 3: AI Operations (22%)
+## AI Operations (22%)
 
 - [ ] Monitoring with DCGM
 - [ ] nvidia-smi and key metrics (utilization, temperature, power, ECC errors)
@@ -50,7 +50,7 @@ Tick a box (`[x]`) and commit to log progress.
 - [ ] Troubleshooting: thermal throttling
 - [ ] Troubleshooting: networking bottlenecks
 
-## Week 4: Practice and Review
+## Practice and Review
 
 - [ ] Timed practice set 1 (50 questions / 60 min)
 - [ ] Review every miss and note its domain
