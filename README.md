@@ -19,6 +19,9 @@ Tick a box (`[x]`) and commit to log progress.
 - [x] NVIDIA RTX
 - [x] LoveLace Architecture and Capabilities
 - [x] NVIDIA software stack: CUDA
+- [x] Nvidia ResNet-50
+- [x] Nvidia Densenet
+- [x] Nvidia Container Toolkit
 - [ ] NVIDIA software stack: NGC
 - [ ] NVIDIA software stack: TensorRT
 - [ ] NVIDIA software stack: Triton Inference Server
