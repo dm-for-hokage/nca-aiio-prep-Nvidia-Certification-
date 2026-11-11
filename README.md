@@ -22,6 +22,10 @@ Tick a box (`[x]`) and commit to log progress.
 - [x] Nvidia ResNet-50
 - [x] Nvidia Densenet
 - [x] Nvidia Container Toolkit
+- [x] Nvidia SLURM
+- [x] NVIDIA Base Command Manager
+- [x] NVIDIA GPU Operator
+- [x] Nvidia Data Center GPU Manager
 - [ ] NVIDIA software stack: NGC
 - [ ] NVIDIA software stack: TensorRT
 - [ ] NVIDIA software stack: Triton Inference Server
