@@ -51,14 +51,14 @@ Tick a box (`[x]`) and commit to log progress.
 - [ ] InfiniBand vs. Ethernet for GPU clusters
 - [ ] BlueField DPUs
 - [ ] Storage for AI workloads
-- [ ] Cooling and power basics
+- [x] Cooling and power basics
 - [ ] Write a one-page comparison sheet (NVLink vs. InfiniBand vs. Ethernet, DGX vs. HGX)
 
 ## AI Operations (22%)
 
-- [ ] Monitoring with DCGM
+- [x] Monitoring with DCGM
 - [x] nvidia-smi and key metrics (utilization, temperature, power, ECC errors)
-- [ ] Kubernetes with the NVIDIA GPU Operator
+- [x] Kubernetes with the NVIDIA GPU Operator
 - [x] Slurm job scheduling
 - [ ] MIG (Multi-Instance GPU) partitioning
 - [ ] vGPU vs. MIG
