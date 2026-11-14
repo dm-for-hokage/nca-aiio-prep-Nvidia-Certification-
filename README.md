@@ -42,8 +42,11 @@ Tick a box (`[x]`) and commit to log progress.
 - [x] NVIDIA H100(SXM & NVL)
 - [x] Hopper vs. Grace Hopper
 - [x] TDP
+- [x] Liquid Cooling
+- [x] Power Supplies(PSU)
+- [x] Power Density
 - [ ] DGX vs. HGX systems
-- [ ] DGX SuperPOD
+- [x] DGX SuperPOD
 - [x] NVLink / NVSwitch vs. PCIe
 - [ ] InfiniBand vs. Ethernet for GPU clusters
 - [ ] BlueField DPUs
