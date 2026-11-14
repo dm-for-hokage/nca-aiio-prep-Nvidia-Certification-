@@ -34,11 +34,17 @@ Tick a box (`[x]`) and commit to log progress.
 
 ## AI Infrastructure (40%)
 
-- [ ] GPU architecture (SMs, Tensor Cores, memory)
-- [ ] GPU generations and how they differ
+- [x] GPU architecture (SMs, Tensor Cores, memory)
+- [x] GPU generations and how they differ
+- [x] GPU vs. CPU
+- [x] NVIDIA Hopper Architecture
+- [x] Transformer Architecture
+- [x] NVIDIA H100(SXM & NVL)
+- [x] Hopper vs. Grace Hopper
+- [x] TDP
 - [ ] DGX vs. HGX systems
 - [ ] DGX SuperPOD
-- [ ] NVLink / NVSwitch vs. PCIe
+- [x] NVLink / NVSwitch vs. PCIe
 - [ ] InfiniBand vs. Ethernet for GPU clusters
 - [ ] BlueField DPUs
 - [ ] Storage for AI workloads
@@ -48,9 +54,9 @@ Tick a box (`[x]`) and commit to log progress.
 ## AI Operations (22%)
 
 - [ ] Monitoring with DCGM
-- [ ] nvidia-smi and key metrics (utilization, temperature, power, ECC errors)
+- [x] nvidia-smi and key metrics (utilization, temperature, power, ECC errors)
 - [ ] Kubernetes with the NVIDIA GPU Operator
-- [ ] Slurm job scheduling
+- [x] Slurm job scheduling
 - [ ] MIG (Multi-Instance GPU) partitioning
 - [ ] vGPU vs. MIG
 - [ ] Troubleshooting: low GPU utilization
