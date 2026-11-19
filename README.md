@@ -26,10 +26,10 @@ Tick a box (`[x]`) and commit to log progress.
 - [x] NVIDIA Base Command Manager
 - [x] NVIDIA GPU Operator
 - [x] Nvidia Data Center GPU Manager
-- [ ] NVIDIA software stack: NGC
-- [ ] NVIDIA software stack: TensorRT
-- [ ] NVIDIA software stack: Triton Inference Server
-- [ ] NVIDIA software stack: NVIDIA AI Enterprise
+- [x] NVIDIA software stack: NGC
+- [x] NVIDIA software stack: TensorRT
+- [x] NVIDIA software stack: Triton Inference Server
+- [x] NVIDIA software stack: NVIDIA AI Enterprise
 - [ ] Make flashcards: one line per NVIDIA product on what it's for
 
 ## AI Infrastructure (40%)
@@ -45,12 +45,12 @@ Tick a box (`[x]`) and commit to log progress.
 - [x] Liquid Cooling
 - [x] Power Supplies(PSU)
 - [x] Power Density
-- [ ] DGX vs. HGX systems
+- [x] DGX vs. HGX systems
 - [x] DGX SuperPOD
 - [x] NVLink / NVSwitch vs. PCIe
-- [ ] InfiniBand vs. Ethernet for GPU clusters
-- [ ] BlueField DPUs
-- [ ] Storage for AI workloads
+- [x] InfiniBand vs. Ethernet for GPU clusters
+- [x] BlueField DPUs
+- [x] Storage for AI workloads
 - [x] Cooling and power basics
 - [ ] Write a one-page comparison sheet (NVLink vs. InfiniBand vs. Ethernet, DGX vs. HGX)
 
@@ -60,11 +60,11 @@ Tick a box (`[x]`) and commit to log progress.
 - [x] nvidia-smi and key metrics (utilization, temperature, power, ECC errors)
 - [x] Kubernetes with the NVIDIA GPU Operator
 - [x] Slurm job scheduling
-- [ ] MIG (Multi-Instance GPU) partitioning
-- [ ] vGPU vs. MIG
-- [ ] Troubleshooting: low GPU utilization
-- [ ] Troubleshooting: thermal throttling
-- [ ] Troubleshooting: networking bottlenecks
+- [x] MIG (Multi-Instance GPU) partitioning
+- [x] vGPU vs. MIG
+- [x] Troubleshooting: low GPU utilization
+- [x] Troubleshooting: thermal throttling
+- [x] Troubleshooting: networking bottlenecks
 
 ## Practice and Review
 
